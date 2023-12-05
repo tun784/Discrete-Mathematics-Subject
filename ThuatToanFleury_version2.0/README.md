@@ -1,5 +1,4 @@
 # Số liệu đồ thị có chu trình Euler:
-8 12
 1 2
 2 3
 2 4
